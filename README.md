@@ -14,7 +14,7 @@
 <p>⭑- React Native, REST APIs for Mobile Development</p>
 　⠀⠀⠀⠀⠀ 　　　　*             .　　　　.* ⠀⠀⠀
 
-<h3>interests: ⋆｡°✩</h3>
+<h3>my: interests .*✩ </h3>
 <p>⭑- games design and development</p>
 <p>⭑- engaging yet intuitive user experience design</p>
 <p>⭑- motion and animation</p>
